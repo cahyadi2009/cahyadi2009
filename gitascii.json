@@ -1,4 +1,5 @@
 {
+  "username": "cahyadi2009",
   "widgets": [
     {
       "widgetId": "header",
@@ -13100,7 +13101,7 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 296,
-        "y": 106
+        "y": 122
       },
       "size": {
         "width": 504,
@@ -13194,5 +13195,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
