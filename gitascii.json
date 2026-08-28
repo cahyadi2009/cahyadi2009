@@ -1,5 +1,4 @@
 {
-  "username": "cahyadi2009",
   "widgets": [
     {
       "widgetId": "header",
@@ -13299,6 +13298,5 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
