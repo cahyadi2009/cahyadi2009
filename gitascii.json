@@ -13102,7 +13102,7 @@
       "name": "Codeweb-showcase-cards Widget",
       "position": {
         "x": 0,
-        "y": 394
+        "y": 377
       },
       "size": {
         "width": 800,
@@ -13118,12 +13118,12 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 0,
-        "y": 704
+        "x": 264,
+        "y": 106
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 520,
+        "height": 126
       },
       "config": {
         "customText": "cahyadi",
@@ -13143,6 +13143,149 @@
       "locked": false,
       "visible": true,
       "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1787878345862",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
+      "position": {
+        "x": 264,
+        "y": 217
+      },
+      "size": {
+        "width": 136,
+        "height": 152
+      },
+      "config": {
+        "searchQuery": "Mewtwo",
+        "searchCards": [
+          {
+            "id": "basep-3",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/base/basep/3/low.webp"
+          },
+          {
+            "id": "dp5-9",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/dp/dp5/9/low.webp"
+          },
+          {
+            "id": "ru1-9",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/pl/ru1/9/low.webp"
+          },
+          {
+            "id": "base4-10",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/base/base4/10/low.webp"
+          },
+          {
+            "id": "base1-10",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/base/base1/10/low.webp"
+          },
+          {
+            "id": "P-A-010",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.webp"
+          },
+          {
+            "id": "dp6-11",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/dp/dp6/11/low.webp"
+          },
+          {
+            "id": "basep-12",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/base/basep/12/low.webp"
+          },
+          {
+            "id": "det1-12",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/sm/det1/12/low.webp"
+          },
+          {
+            "id": "ex11-12",
+            "name": "Mewtwo δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex11/12/low.webp"
+          },
+          {
+            "id": "gym2-14",
+            "name": "Rocket's Mewtwo",
+            "image": "https://assets.tcgdex.net/en/gym/gym2/14/low.webp"
+          },
+          {
+            "id": "basep-14",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/base/basep/14/low.webp"
+          },
+          {
+            "id": "ecard1-20",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/20/low.webp"
+          },
+          {
+            "id": "ex13-24",
+            "name": "Mewtwo δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex13/24/low.webp"
+          },
+          {
+            "id": "lc-29",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/lc/lc/29/low.webp"
+          },
+          {
+            "id": "swsh10.5-030",
+            "name": "Mewtwo V",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.webp"
+          },
+          {
+            "id": "swsh10.5-031",
+            "name": "Mewtwo VSTAR",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/low.webp"
+          },
+          {
+            "id": "sm115-31",
+            "name": "Mewtwo GX",
+            "image": "https://assets.tcgdex.net/en/sm/sm115/31/low.webp"
+          },
+          {
+            "id": "P-A-050",
+            "name": "Mewtwo ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/050/low.webp"
+          },
+          {
+            "id": "xy12-51",
+            "name": "Mewtwo",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/51/low.webp"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/base/base1/10/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/base/base1/10/low.webp"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1787878422957",
+      "widgetId": "controlplane-command-deck",
+      "name": "Controlplane-command-deck Widget",
+      "position": {
+        "x": 392,
+        "y": 225
+      },
+      "size": {
+        "width": 384,
+        "height": 136
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
